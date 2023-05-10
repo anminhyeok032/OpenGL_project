@@ -1,0 +1,88 @@
+﻿  허들러닝.cpp
+C:\Users\AN\Desktop\20 컴퓨터그래픽스\허들러닝_최종본\openGL_Term\허들러닝.cpp(298,1): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\AN\Desktop\20 컴퓨터그래픽스\허들러닝_최종본\openGL_Term\허들러닝.cpp(341,1): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\AN\Desktop\20 컴퓨터그래픽스\허들러닝_최종본\openGL_Term\허들러닝.cpp(892,15): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\AN\Desktop\20 컴퓨터그래픽스\허들러닝_최종본\openGL_Term\허들러닝.cpp(1196,38): warning C4305: '인수': 'double'에서 'T'(으)로 잘립니다.
+          with
+          [
+              T=float
+          ]
+C:\Users\AN\Desktop\20 컴퓨터그래픽스\허들러닝_최종본\openGL_Term\허들러닝.cpp(1229,38): warning C4305: '인수': 'double'에서 'T'(으)로 잘립니다.
+          with
+          [
+              T=float
+          ]
+C:\Users\AN\Desktop\20 컴퓨터그래픽스\허들러닝_최종본\openGL_Term\허들러닝.cpp(1259,38): warning C4305: '인수': 'double'에서 'T'(으)로 잘립니다.
+          with
+          [
+              T=float
+          ]
+C:\Users\AN\Desktop\20 컴퓨터그래픽스\허들러닝_최종본\openGL_Term\허들러닝.cpp(1709,49): warning C4244: '+=': 'double'에서 'T'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              T=float
+          ]
+C:\Users\AN\Desktop\20 컴퓨터그래픽스\허들러닝_최종본\openGL_Term\허들러닝.cpp(1710,50): warning C4244: '-=': 'double'에서 'T'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              T=float
+          ]
+C:\Users\AN\Desktop\20 컴퓨터그래픽스\허들러닝_최종본\openGL_Term\허들러닝.cpp(1726,53): warning C4244: '+=': 'double'에서 'T'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              T=float
+          ]
+C:\Users\AN\Desktop\20 컴퓨터그래픽스\허들러닝_최종본\openGL_Term\허들러닝.cpp(1727,50): warning C4244: '-=': 'double'에서 'T'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              T=float
+          ]
+C:\Users\AN\Desktop\20 컴퓨터그래픽스\허들러닝_최종본\openGL_Term\허들러닝.cpp(1742,50): warning C4244: '-=': 'double'에서 'T'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              T=float
+          ]
+C:\Users\AN\Desktop\20 컴퓨터그래픽스\허들러닝_최종본\openGL_Term\허들러닝.cpp(1752,49): warning C4244: '+=': 'double'에서 'T'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              T=float
+          ]
+C:\Users\AN\Desktop\20 컴퓨터그래픽스\허들러닝_최종본\openGL_Term\허들러닝.cpp(1757,37): warning C4305: '=': 'double'에서 'T'(으)로 잘립니다.
+          with
+          [
+              T=float
+          ]
+C:\Users\AN\Desktop\20 컴퓨터그래픽스\허들러닝_최종본\openGL_Term\허들러닝.cpp(1794,50): warning C4305: '-=': 'double'에서 'T'(으)로 잘립니다.
+          with
+          [
+              T=float
+          ]
+C:\Users\AN\Desktop\20 컴퓨터그래픽스\허들러닝_최종본\openGL_Term\허들러닝.cpp(1974,60): warning C4244: '+=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\AN\Desktop\20 컴퓨터그래픽스\허들러닝_최종본\openGL_Term\허들러닝.cpp(2005,60): warning C4244: '+=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\AN\Desktop\20 컴퓨터그래픽스\허들러닝_최종본\openGL_Term\허들러닝.cpp(2100,48): warning C4305: '-=': 'double'에서 'T'(으)로 잘립니다.
+          with
+          [
+              T=float
+          ]
+C:\Users\AN\Desktop\20 컴퓨터그래픽스\허들러닝_최종본\openGL_Term\허들러닝.cpp(2143,48): warning C4305: '-=': 'double'에서 'T'(으)로 잘립니다.
+          with
+          [
+              T=float
+          ]
+C:\Users\AN\Desktop\20 컴퓨터그래픽스\허들러닝_최종본\openGL_Term\허들러닝.cpp(2188,48): warning C4305: '-=': 'double'에서 'T'(으)로 잘립니다.
+          with
+          [
+              T=float
+          ]
+C:\Users\AN\Desktop\20 컴퓨터그래픽스\허들러닝_최종본\openGL_Term\허들러닝.cpp(2269,112): warning C4305: '인수': 'double'에서 'T'(으)로 잘립니다.
+          with
+          [
+              T=float
+          ]
+C:\Users\AN\Desktop\20 컴퓨터그래픽스\허들러닝_최종본\openGL_Term\허들러닝.cpp(2270,114): warning C4305: '인수': 'double'에서 'T'(으)로 잘립니다.
+          with
+          [
+              T=float
+          ]
+C:\Users\AN\Desktop\20 컴퓨터그래픽스\허들러닝_최종본\openGL_Term\허들러닝.cpp(2523,5): warning C4060: switch문에 'case' 또는 'default' 레이블이 없습니다.
+  openGL_Term.vcxproj -> C:\Users\AN\Desktop\20 컴퓨터그래픽스\허들러닝_최종본\Debug\openGL_Term.exe
